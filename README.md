@@ -1,5 +1,4 @@
 # CTF
-
 Repo for Capture the flag related competitions.
 
 ## Warnings
